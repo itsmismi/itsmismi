@@ -86,7 +86,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/itsmismi/itsmismi/refs/heads/main/diplom.png)
+[<img src="/diplom.png" width="320px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/itsmismi/itsmismi/refs/heads/main/diplom.png)
 <!-- [<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png) --> 
 
 <br>
