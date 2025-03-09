@@ -1,6 +1,7 @@
 ## Привет 👋
 Меня зовут Михаил, я QA Engineer
-<p align="center">[<img src="/gigif.gif" width="500px" hspace="100px" alt="Гиф»">]</p>(https://raw.githubusercontent.com/itsmismi/itsmismi/refs/heads/main/gigif.gif)
+<p align="center">[<img src="/gigif.gif" width="500px" hspace="100px" alt="Гиф»">](https://raw.githubusercontent.com/itsmismi/itsmismi/refs/heads/main/gigif.gif)
+</p>
 
 ## 📊 Статистика
 
