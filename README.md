@@ -1,6 +1,6 @@
 ## Привет 👋
 Меня зовут Михаил, я QA Engineer
-[<img src="/dog.gif" width="500px" hspace="100px" alt="Гиф»">](https://raw.githubusercontent.com/itsmismi/itsmismi/refs/heads/main/dog.gif)
+<p>[<img src="/dog.gif" width="500px" hspace="100px" alt="Гиф»">](https://raw.githubusercontent.com/itsmismi/itsmismi/refs/heads/main/dog.gif)</p>
 
 
 ## 📊 Статистика
